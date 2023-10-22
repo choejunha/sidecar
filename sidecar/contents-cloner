@@ -14,7 +14,7 @@ cd /data
 while true
 do
    date
-   sleep 60
+   sleep 20
    git pull
 done
 
